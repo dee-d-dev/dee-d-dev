@@ -1,16 +1,14 @@
-### Hi there 👋
+## Adedotun 𓂀
 
-<!--
-**dee-d-dev/dee-d-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Who?
+* I am nothing at the same time everything
+* I belong in a place where they are wise, here, where the educated learn to rise. 
+* on a journey of seeing what I could be
+### Technology Stacks
+* Language: Golang, Javascript
+* Messaging: Redis
+* DBMS: MySQL, PostgreSQL, MongoDB
+* Infrastructure: Docker
+
