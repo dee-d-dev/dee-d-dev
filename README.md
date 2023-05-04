@@ -7,7 +7,7 @@
 * I belong in a place where they are wise, here, where the educated learn to rise. 
 * on a journey of seeing what I could be
 ### Technology Stacks
-* Language: Golang, Javascript
+* Language: Golang, Javascript,Typescript
 * Messaging: Redis
 * DBMS: MySQL, PostgreSQL, MongoDB
 * Infrastructure: Docker
